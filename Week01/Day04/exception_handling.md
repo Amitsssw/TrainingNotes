@@ -83,7 +83,9 @@ public class ExceptionHandlingExample {
 
             String line = reader.readLine();
 
-            System.out.println("First line: " + line);
+            System.out.println("First line: " + line
+    
+);
 
         } catch (FileNotFoundException e) {
 
